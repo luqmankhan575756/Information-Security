@@ -44,4 +44,4 @@ If you found these slides useful, you might also want to look into:
 Network Security and Firewalls
 Ethical Hacking and Penetration Testing
 Applied Cryptography
-Cloud Security Fundamentals
+Cloud Security Fundamentals.
